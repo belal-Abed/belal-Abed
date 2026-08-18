@@ -83,6 +83,24 @@ A responsive hotel booking website designed to showcase hotel services and booki
 
 ## Professional Experience
 
+### COSQOOL — Educational Platform
+
+Contributed as a Frontend Developer to a production educational platform for students in Saudi Arabia while working with Custom Mind Company.
+
+**My contributions:**
+
+- Developed and maintained responsive frontend interfaces.
+- Implemented interactive UI animations.
+- Improved layouts across mobile and desktop devices.
+- Worked with HTML5, CSS3, JavaScript and Tailwind CSS.
+- Collaborated with design and backend teams.
+
+**Live platform:** [cosqool.com](https://www.cosqool.com/)
+
+> The source code is private and owned by the company.
+
+
+
 ### Frontend Developer — Custom Mind Company
 
 **May 2024 – Present | Remote**
