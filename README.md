@@ -149,8 +149,7 @@ I am open to the following opportunities across Germany:
 
 - [LinkedIn](https://www.linkedin.com/in/abed-belal-a24120384)
 - [GitHub](https://github.com/belal-Abed)
-- [Email](eng.belalabed@gmail.com)
-
+- [Email](mailto:eng.belalabed@gmail.com)
 ---
 
 Thank you for visiting my GitHub profile.
